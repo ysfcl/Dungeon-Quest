@@ -31,7 +31,7 @@ Bu proje, Unity kullanılarak geliştirilmiş bir 2D aksiyon oyunudur. Şövalye
   3. Hasar alma animasyonu  
   4. Ölüm  
 
-> Not: Rakip karakter şu an için pasif, aksiyonlar animasyon ve hasar alma ile sınırlıdır.
+> Not: Rakip karakter şu an için pasif, aksiyonlar olduğu yerde hareket etme ve hasar alma ile sınırlıdır.
 
 ---
 
@@ -56,11 +56,7 @@ Bu proje, Unity kullanılarak geliştirilmiş bir 2D aksiyon oyunudur. Şövalye
 
 ---
 
-
-
----
-
 ## Notlar
-- Proje tek kişilik geliştirilmiştir.  
-- Kodlar tamamen bireysel çalışmaya aittir, intihal veya hazır kod kullanılmamıştır.  
-- Oyunun ilerleyen sürümlerinde rakip karakter AI eklenecektir.
+- Proje tek kişi tarafından geliştirilmiştir.  
+- Kodlar tamamen bireysel çalışmaya aittir.  
+- Oyunun ilerleyen sürümlerinde rakip karakter hareketleri AI olarak eklenecektir.
